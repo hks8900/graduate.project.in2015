@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="maybe-perfect-Finish2/gen"/>
+	<classpathentry kind="src" path="maybe-perfect-Finish2/src"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v4-2ad051106360cb0a346252a004452f97.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v4-8cf66e0153ccaa3525bea7d8d14d1588.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v4-eab5057a3096a951602e59d5907a99e3.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v7-appcompat-10b2f036f29abb7b09bad6d8c7bfb807.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v7-appcompat-5168abc006c730de7ca37aef4fbbe52b.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v7-appcompat-814f66a32b737de5d1f26af39727e8c0.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/android-support-v7-appcompat-d606e10747bf3fae3934638ef2961a06.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/appcompat_v7_10-d4406894da7c6f7bebc8138c89a67888.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/appcompat_v7-43cef0dfa3fb46bd92e6e032536b1a35.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/google-play-services_lib-1c23657e05b5575a96c60d11bcd44725.jar"/>
+	<classpathentry kind="lib" path="maybe-perfect-Finish2/bin/dexedLibs/google-play-services-32d52f55f16a76532e127608a77a2b1b.jar"/>
+	<classpathentry kind="output" path="maybe-perfect-Finish2/bin/classes"/>
+</classpath>
